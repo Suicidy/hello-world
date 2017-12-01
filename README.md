@@ -1,2 +1,4 @@
 # hello-world
-First time using
+Try to commit a new one.
+
+I'm Nine. I want to try Github
